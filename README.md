@@ -13,7 +13,7 @@ npm i docsify-cli -g
 
 Run the local server with `docsify serve`. You can preview your site in your browser on `http://localhost:3000`.
 
-```
+```bash
 docsify serve docs
 ```
 
