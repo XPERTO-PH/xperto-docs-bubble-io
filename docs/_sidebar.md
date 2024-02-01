@@ -3,13 +3,13 @@
   * [About XPERTO](/introduction/about-xperto.md)
 * [Naming Cheat Sheet](naming-cheat-sheet.md)
 * **Naming Conventions**
-* [Page naming](/)
+* [Page naming](page-naming.md)
 * [Element naming](/)
-* [Style naming](/)
-* [Workflow naming & organization](/)
+* [Style naming](style-naming.md)
+* [Workflow naming & organization](workflow-naming-and-organization.md)
 * [Database naming](/)
 * **Miscellaneous**
 * Other recommendations
 * References
-* Copyright
-* Changelog & version
+* [Copyright](copyright.md)
+* [Changelog & version](changelog.md)
